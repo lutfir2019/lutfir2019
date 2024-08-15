@@ -34,11 +34,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep interest in
 - **Code Editor**: 
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 Github Stats
+  
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lutfir2019&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="lutfir2019's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lutfir2019&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="lutfir2019's Most Used Language">
+| ------------- | ------------- |  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfir2019&show_icons=true&theme=radical)
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfir2019&hide_border=true&theme=radical">
+| ------------- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfir2019&layout=compact&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/f3272ed5-801d-4f7e-8671-c34fd7168f08.svg)](https://wakatime.com/@f3272ed5-801d-4f7e-8671-c34fd7168f08)
+
+---
+
 
 ## 🧑‍💻 About Me
 
