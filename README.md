@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep interest in
 I am always eager to learn new technologies and apply them in practical projects. My expertise includes a variety of modern frontend and backend tools, allowing me to build scalable, maintainable applications.
 
 - 🌱 I’m currently learning ![Go Fiber](https://img.shields.io/badge/-Go%20Fiber-00ADD8?style=flat&logo=go&logoColor=white)
-- 💬 Ask me about **React, Go, and Next.js**
+- 💬 Ask me about **React and Next.js**
 - 📫 How to reach me: [![email me](https://img.shields.io/badge/lutfirrahman2019-gmail.com-red?logo=Gmail)](mailto:lutfirrahman2019@gmail.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project.
