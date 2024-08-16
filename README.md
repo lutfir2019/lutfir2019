@@ -58,22 +58,3 @@ I am always eager to learn new technologies and apply them in practical projects
 - 📫 How to reach me: [![email me](https://img.shields.io/badge/lutfirrahman2019-gmail.com-red?logo=Gmail)](mailto:lutfirrahman2019@gmail.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project.
-
-![snake gif](https://github.com/YOUR_USERNAME/lutfir2019/blob/output/github-contribution-grid-snake.gif)
-
-test
-https://github.com/lutfir2019/lutfir2019/blob/main/github-user-contribution.svg
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/lutfir2019/lutfir2019/blob/main/github-user-contribution.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/lutfir2019/lutfir2019/blob/main/github-user-contribution.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/lutfir2019/lutfir2019/blob/main/github-user-contribution.svg"
-  />
-</picture>
